@@ -3,6 +3,8 @@
 %                       Version 3, 29 June 2007                         %
 %                                                                       %
 %        This function simulates a motor to a sinasiodal input          %
+%                                                                       %
+%     https://github.com/Matthew-J-Read/Control-Systems-Analysis.git    %
 %                  Copyright © 2020  Matthew J Read                     %
 % ----------------------------------------------------------------------%
 function AsinWt_MotorModel()  

@@ -3,6 +3,8 @@
 %                       Version 3, 29 June 2007                         %
 %                                                                       %
 %         This script shows the affect of adding a pre filter           %
+%                                                                       %
+%     https://github.com/Matthew-J-Read/Control-Systems-Analysis.git    %
 %                  Copyright © 2020  Matthew J Read                     %
 % ----------------------------------------------------------------------%
 s = tf('s');

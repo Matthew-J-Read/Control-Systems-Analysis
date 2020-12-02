@@ -3,6 +3,8 @@
 %                       Version 3, 29 June 2007                         %
 %                                                                       %
 %  This code supplys the initial data needed for the system designer    %
+%                                                                       %
+%     https://github.com/Matthew-J-Read/Control-Systems-Analysis.git    %
 %                  Copyright © 2020  Matthew J Read                     %
 % ----------------------------------------------------------------------%
 % Controll system designer to use proportinal feed back controller

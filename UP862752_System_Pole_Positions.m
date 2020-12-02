@@ -4,6 +4,8 @@
 %                                                                       %
 %       This simple script shows the root locus of a 2nd order tf       %
 %                                                                       %
+%     https://github.com/Matthew-J-Read/Control-Systems-Analysis.git    %
+%                                                                       %
 %                  Copyright © 2019  Matthew J Read                     %
 % ----------------------------------------------------------------------%
 function UP862752_System_Pole_Positions()

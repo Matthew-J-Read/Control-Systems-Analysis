@@ -5,6 +5,8 @@
 %   This function shows the efects of changing zeta on many plots       %
 %                 and compare it with a 2nd Order TF                    %
 %                                                                       %
+%     https://github.com/Matthew-J-Read/Control-Systems-Analysis.git    %
+%                                                                       %
 %                  Copyright © 2019  Matthew J Read                     %
 % ----------------------------------------------------------------------%
 function UP862752_Bode_Plot_Changing_Zeta()

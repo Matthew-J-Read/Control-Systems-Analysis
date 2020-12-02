@@ -5,6 +5,8 @@
 %   This code shows how to create a BODE plot from phase and freq data  %
 %                 and compare it with a 1st Order TF                    %
 %                                                                       %
+%     https://github.com/Matthew-J-Read/Control-Systems-Analysis.git    %
+%                                                                       %
 %                  Copyright © 2019  Matthew J Read                     %
 % ----------------------------------------------------------------------%
 %------------------------------------------------------------------------------------------%

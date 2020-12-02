@@ -3,6 +3,8 @@
 %                       Version 3, 29 June 2007                         %
 %                                                                       %
 %   This code shows how to create a BODE plot from phase and freq data  %
+%                                                                       %
+%     https://github.com/Matthew-J-Read/Control-Systems-Analysis.git    %
 %                  Copyright © 2019  Matthew J Read                     %
 % ----------------------------------------------------------------------%
 function UP862752_Bode_Diagram()

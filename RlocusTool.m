@@ -3,6 +3,8 @@
     %                       Version 3, 29 June 2007                         %
     %                                                                       %
     %           This code shows R-L Closed loop pole migration              %
+    %                                                                       %
+    %     https://github.com/Matthew-J-Read/Control-Systems-Analysis.git    %
     %                  Copyright © 2020  Matthew J Read                     %
     % ----------------------------------------------------------------------%
 

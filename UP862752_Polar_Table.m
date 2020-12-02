@@ -4,6 +4,8 @@
 %                                                                       %
 %          This code tabulates magnitude and phase responce data        %
 %                                                                       %
+%     https://github.com/Matthew-J-Read/Control-Systems-Analysis.git    %
+%                                                                       %
 %                  Copyright © 2019  Matthew J Read                     %
 % ----------------------------------------------------------------------%
 
